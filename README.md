@@ -27,7 +27,7 @@ This project aims to predict diseases based on patient symptoms using various ma
   - **Output**: The system outputs the predicted disease along with the probability.
 
 ## Tech Stack
-- **Programming Language**: Python 3.1
+- **Programming Language**: Python 3.7
 - **Libraries**:
   - `numpy`
   - `pandas`
