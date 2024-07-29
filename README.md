@@ -46,5 +46,5 @@ This project aims to predict diseases based on patient symptoms using various ma
 ## Contributing
 We welcome any further developments and contributions to this project! Whether you want to report a bug, suggest an enhancement, or submit a pull request, your help is greatly appreciated. 
 
-                                                             Thank You.
+## Thank You.
 
