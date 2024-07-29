@@ -1,0 +1,17 @@
+ischaemic heart disease,breathlessness,chest pain,palpitation,cough,dizzines,fatigue,swelling of feet,cyanosis,abdomen,pain,appetite loss,weight gain,facial puffiness,syncope
+meningitis,decreased consciousness,fever,headache,vomiting,neck stiffness,blurred vision,behavioral changes,weakness in limbs,tingling,syncope,pain in neck,convulsion,speech defects
+bronchial asthma,breathlessness,wheezing,cough,chest pain,fever,cyanosis,neck stiffness,appetite loss,loss of weight,feet oedema,hoarseness of voice,fatigue,chills
+pneumonia,high fever,breathlessness,chest pain,chills,cough,neck stiffness,hoarseness of voice,cyanosis,fatigue,appetite loss,loss of weight,wheezing,feet,oedema
+Cirrhosis of liver,Fatigue,weight loss,flatulence,low grade fever ,distension of abdomen ,haematemesis,drowsiness,swelling of legs,pain in abdomen,nausea,diarrhoea,oliguria,breathlessness 
+Hemiplagia,Weakness on one side of body,headache,behavioral changes,speech difficulty,deviation of face to one side,paralysis of muscles,loss of memory ,vomiting,headache,diarrhoea,fever,pain in neck,convulsions negative
+Paraplegia,Weakness of both sides of body,loss of sensations on both side,loss of bowel control,hesitancy in urination,cough,fever ,root pain in body,headache,vomiting,convulsions,diarrhoea,neck stiffness
+Nephrotic syndrome Ascites,oedema,proteinuria,Decreased albumin,facial puffiness,fever,vomiting,nausea,hematuria,burning urination ,diarrhoea,renal colic ,appetite loss
+Rheumatoid Arthritis,Pain in joints,prolonged morning stiffness,symmetrical involvement,small joints involves,swelling and tenderness in joints,fever,weight loss,diarrhoea,nausea,vomiting,headache
+Diabetes,Increase urine volume and frequency,increased thirst ,increased appetite,dimness of vision,tingling m numbness of limbs,swelling of body,fever,tremor,palpitations,cough,dizziness,pain in abdomen
+Anaemia,Weakness,fatigue,giddiness,fainting,palpitations,breathlessness,pallor,Chest pain,fever ,vomiting ,joint pain ,diarrhoea 
+Jaundice,Urine dark yellow ,Stool clay colored with steatorrhoea,Yellow discoloration of body,Generalised pruritis,Nausea,diarrhoea,palpitations,breathlessness chest pain
+Tuberculosis,Cough with expectoration,Haemoptysis Fever , chills,Night sweating ,loss of appetite,Negative  Syncope, palpitations ,oedema ,wheezing,cyanosis,abdomen pain
+Malaria,Recurring fever,chills ,sweating,nausea,vomiting,anaemia,headache,abdomen pain ,Pallor,fatigue,weight loss,breathlessness,oedema
+Rickets,irritability, delayed development, sweating in forehead, poor dentition, tetany, swelling of wrists, craniotabes, big anterior fontanelle , pot belly,small nose, protruding tongue.
+Myxoedema,puffy face,coarse hair, dry skin, facial pallor, hoarseness of voice, lethargy, loss of libido, constipation, deafness, menorrhagia,weight gain, oedema
+Cushing's syndrome,moon face,obesity,purple striae,hirusitism,hyperpigmentation, thinning of hair, loss of libido, depression, peptic ulcer, growth retardation

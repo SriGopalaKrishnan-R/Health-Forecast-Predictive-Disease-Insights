@@ -1,0 +1,41 @@
+ischaemic heart disease 50 
+ ischaemic heart disease 50 
+ ischaemic heart disease 50 
+ ischaemic heart disease 50 
+ ischaemic heart disease 50 
+ ischaemic heart disease 50 
+ meningitis 8 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ bronchial asthma 100 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ pneumonia 91 
+ Paraplegia 16 
+ Paraplegia 16 
+ Nephrotic syndrome Ascites 8 
+ Diabetes 8 
+ Anaemia 16 
+ Anaemia 16 
+ Tuberculosis 16 
+ Tuberculosis 16 
+ Malaria 16 
+ Malaria 16 
+ 
