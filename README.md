@@ -41,8 +41,7 @@ This project aims to predict diseases based on patient symptoms using various ma
    cd Health-Forecast-Predictive-Disease-Insights
 2. Install the required libraries:
     pip install -r requirements.txt
-3. Running the System
-  * Run the main script and you are good to go.
+3. Run the main script and you are good to go.
     
 ## Contributing
 We welcome any further developments and contributions to this project! Whether you want to report a bug, suggest an enhancement, or submit a pull request, your help is greatly appreciated. 
