@@ -1,0 +1,14 @@
+{
+  "name": "healthify-engine",
+  "version": "1.0.0",
+  "description": "Healthify - Precision Disease Detection Engine",
+  "scripts": {
+    "start:server": "cd server && node server.js",
+    "start:client": "cd client && npm run dev",
+    "dev": "echo Start server and client separately with npm run start:server and npm run start:client",
+    "train": "cd server/ml_engine && python train_engine.py",
+    "install:all": "cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": ["machine-learning", "healthcare", "disease-prediction", "ensemble"],
+  "license": "MIT"
+}

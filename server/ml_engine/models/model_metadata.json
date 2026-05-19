@@ -1,0 +1,160 @@
+{
+  "symptoms": [
+    "abdomen pain",
+    "abdominal pain",
+    "anaemia",
+    "appetite loss",
+    "behavioral changes",
+    "big anterior fontanelle",
+    "blurred vision",
+    "breathlessness",
+    "chest pain",
+    "chills",
+    "coarse hair",
+    "constipation",
+    "convulsion",
+    "convulsions",
+    "cough",
+    "craniotabes",
+    "cyanosis",
+    "deafness",
+    "decreased consciousness",
+    "delayed development",
+    "dizziness",
+    "dry skin",
+    "facial pallor",
+    "facial puffiness",
+    "fatigue",
+    "feet oedema",
+    "fever",
+    "haematuria",
+    "headache",
+    "hemoptysis",
+    "high fever",
+    "hoarseness of voice",
+    "irritability",
+    "lethargy",
+    "loss of libido",
+    "loss of weight",
+    "menorrhagia",
+    "muscle and joint pain",
+    "neck stiffness",
+    "oedema",
+    "pain behind eyes",
+    "pain in neck",
+    "pallor",
+    "palpitation",
+    "petechiae",
+    "poor dentition",
+    "pot belly",
+    "protruding tongue",
+    "puffy face",
+    "rashes",
+    "recurrent fever",
+    "small nose",
+    "speech defects",
+    "sweating",
+    "sweating in forehead",
+    "swelling of feet",
+    "swelling of wrists",
+    "syncope",
+    "tetany",
+    "tingling",
+    "vomiting",
+    "weakness in limbs",
+    "weight gain",
+    "weight loss",
+    "wheezing"
+  ],
+  "diseases": [
+    "Bronchial Asthma",
+    "Dengue",
+    "Infective Endocarditis",
+    "Ischaemic Heart Disease",
+    "Malaria",
+    "Meningitis",
+    "Myxoedema",
+    "Pneumonia",
+    "Rickets"
+  ],
+  "ensemble_accuracy": 1.0,
+  "baseline_best": 1.0,
+  "precision_boost": 0.0,
+  "cv_mean": 1.0,
+  "cv_std": 0.0,
+  "model_weights": {
+    "rf": 2,
+    "svm": 1,
+    "xgb": 3
+  },
+  "total_samples": 3363,
+  "report": {
+    "Bronchial Asthma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 69.0
+    },
+    "Dengue": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 87.0
+    },
+    "Infective Endocarditis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 85.0
+    },
+    "Ischaemic Heart Disease": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 68.0
+    },
+    "Malaria": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 81.0
+    },
+    "Meningitis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 80.0
+    },
+    "Myxoedema": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 64.0
+    },
+    "Pneumonia": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 70.0
+    },
+    "Rickets": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 69.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 673.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 673.0
+    }
+  }
+}
